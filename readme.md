@@ -5,7 +5,6 @@ This is a simple program that scrapes the comments from a YouTube video, analyze
 _./moodanalyzer.py youtubevideourl_
 
 *e.g.* ./moodanalyzer.py [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<<<<<<< HEAD
 
 ##Sample Output
 ########################################
@@ -13,5 +12,6 @@ YouTube Comment Mood Analyzer
 ########################################
 Getting comment data...
 Analyzing...
+There were 10 happy comments and 32 sad comments.
 The general feelings towards this video were sad.
-Sample size of 49 comments.
+Sample size of 42 comments.
