@@ -54,7 +54,8 @@ def determine_youtube_mood(youtube_video_url):
 		else:
 			total_sad += 1
 
-	#Print whether more people were happy or sad, and the sample size	
+	#Print whether more people were happy or sad, and the sample size
+	print "There were %s happy comments and %s sad comments." % (total_happy, total_sad,)
 	if (total_happy > total_sad):
 		print("The general feelings towards this video were happy.")
 	else:
