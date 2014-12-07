@@ -7,11 +7,11 @@ _./moodanalyzer.py youtubevideourl_
 *e.g.* ./moodanalyzer.py [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ##Sample Output
-########################################
-YouTube Comment Mood Analyzer
-########################################
-Getting comment data...
-Analyzing...
-There were 10 happy comments and 32 sad comments.
-The general feelings towards this video were sad.
-Sample size of 42 comments.
+<p>########################################</p>
+<p>YouTube Comment Mood Analyzer</p>
+<p>########################################</p>
+<p>Getting comment data...</p>
+<p>Analyzing...</p>
+<p>There were 10 happy comments and 32 sad comments.</p>
+<p>The general feelings towards this video were sad.</p>
+<p>Sample size of 42 comments.</p>
